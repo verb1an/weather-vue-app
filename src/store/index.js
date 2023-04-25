@@ -1,7 +1,9 @@
 import { createStore } from 'vuex'
+import { vmcodeModule } from './vmcodeModule'
 
 export default createStore({
   state: {
+    isAuth: false,
   },
   getters: {
   },
@@ -10,5 +12,6 @@ export default createStore({
   actions: {
   },
   modules: {
+    vmcode: vmcodeModule
   }
 })

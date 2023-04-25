@@ -1,0 +1,19 @@
+:root {
+    --color-g-primary: #6d67d0;
+    --color-g-light-primary: #c2bff4;
+    --color-g-dark: #1f2326;
+    --color-g-white: #ffffff;
+    --color-g-gray: #505155;
+    --color-g-light-gray: #292c31;
+    --color-g-light-green: #87ebcd;
+    --color-g-yellow: #f6c833;
+}
+
+$color-g-primary: var(--color-g-primary, #6d67d0);
+$color-g-light-primary: var(--color-g-light-primary, #c2bff4);
+$color-g-dark: var(--color-g-dark, #1f2326);
+$color-g-white: var(--color-g-white, #f8f8f8);
+$color-g-gray: var(--color-g-gray, #505155);
+$color-g-light-gray: var(--color-g-light-gray, #292c31);
+$color-g-light-green: var(--color-g-light-green, #87ebcd);
+$color-g-yellow: var(--color-g-yellow, #f6c833);

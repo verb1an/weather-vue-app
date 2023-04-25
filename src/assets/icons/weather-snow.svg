@@ -1,0 +1,21 @@
+<svg width="43" height="39" viewBox="0 0 43 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M37.5635 15.5989C37.5423 15.5989 37.5229 15.6047 37.5019 15.605C37.8914 14.704 38.1096 13.7117 38.1096 12.6678C38.1096 8.57435 34.791 5.25579 30.6976 5.25579C29.2509 5.25579 27.9054 5.67683 26.7645 6.39363C25.2213 2.64293 21.5348 0 17.2274 0C11.5316 0 6.91457 4.61703 6.91457 10.3128C6.91457 10.7432 6.94942 11.165 7.00069 11.5815C6.97165 11.5812 6.94361 11.5772 6.91457 11.5772C3.09591 11.5772 0 14.673 0 18.4919C0 22.3105 3.09591 25.4063 6.91457 25.4063H37.5635C40.2719 25.4063 42.4672 23.2109 42.4672 20.5026C42.4672 17.7943 40.2719 15.5989 37.5635 15.5989Z" fill="white"/>
+<rect x="19" y="35" width="1" height="3.5" fill="white"/>
+<rect width="1" height="3.5" transform="matrix(1 0 0 -1 19 35)" fill="white"/>
+<rect x="19.1808" y="35.8192" width="1" height="4" transform="rotate(-55 19.1808 35.8192)" fill="white"/>
+<rect width="1" height="4" transform="matrix(0.573576 0.819152 0.819152 -0.573576 19.1808 34.8679)" fill="white"/>
+<rect x="19.2766" y="35" width="1" height="4" transform="rotate(55 19.2766 35)" fill="white"/>
+<rect width="1" height="4" transform="matrix(0.573577 -0.819152 -0.819152 -0.573577 19.2766 35.687)" fill="white"/>
+<path d="M28 33H29V36.5H28V33Z" fill="white"/>
+<rect width="1" height="3.5" transform="matrix(1 0 0 -1 28 33)" fill="white"/>
+<rect x="28.1808" y="33.8192" width="1" height="4" transform="rotate(-55 28.1808 33.8192)" fill="white"/>
+<rect width="1" height="4" transform="matrix(0.573576 0.819152 0.819152 -0.573576 28.1808 32.8679)" fill="white"/>
+<rect x="28.2766" y="33" width="1" height="4" transform="rotate(55 28.2766 33)" fill="white"/>
+<rect width="1" height="4" transform="matrix(0.573577 -0.819152 -0.819152 -0.573577 28.2766 33.687)" fill="white"/>
+<rect x="10" y="33" width="1" height="3.5" fill="white"/>
+<path d="M10 33H11V29.5H10V33Z" fill="white"/>
+<rect x="10.1808" y="33.8192" width="1" height="4" transform="rotate(-55 10.1808 33.8192)" fill="white"/>
+<rect width="1" height="4" transform="matrix(0.573576 0.819152 0.819152 -0.573576 10.1808 32.8679)" fill="white"/>
+<rect x="10.2766" y="33" width="1" height="4" transform="rotate(55 10.2766 33)" fill="white"/>
+<rect width="1" height="4" transform="matrix(0.573577 -0.819152 -0.819152 -0.573577 10.2766 33.687)" fill="white"/>
+</svg>
