@@ -23,7 +23,7 @@ export default {
 
 <script setup>
 import { defineProps } from "vue";
-const props = defineProps({
+defineProps({
     weekWeatherInfo: { type: Array, required: true },
 });
 const days = ["Вс", "Пн", "Вт", "Ср", "Чт", "Пт", "Сб"];
