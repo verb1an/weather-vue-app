@@ -1,24 +1,9 @@
-# weather-vue-app
 
-## Project setup
-```
-npm install
-```
+Simple weather site app
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Designer
+Millena Martins
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Weather api
+Open metio
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
